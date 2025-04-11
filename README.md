@@ -1,7 +1,7 @@
 
 # 🧼 Análise e Limpeza de Dados com Python
 
-Este projeto tem como objetivo demonstrar técnicas práticas de **limpeza, exploração e tratamento de dados** usando **Pandas**, **NumPy**, **Seaborn**, **Matplotlib** e **Scipy**. A base utilizada contém dados de clientes e o processo envolve desde a inspeção inicial até o tratamento de outliers e inconsistências.
+Este projeto tem como objetivo demonstrar técnicas práticas de **limpeza, exploração e tratamento de dados** usando **Pandas**, **NumPy** e **Scipy**. A base utilizada contém dados de clientes e o processo envolve desde a inspeção inicial até o tratamento de outliers e inconsistências.
 
 ---
 
