@@ -84,8 +84,6 @@ No final, os dados são salvos em um novo arquivo `.csv` com os outliers removid
 
 - `pandas`
 - `numpy`
-- `matplotlib`
-- `seaborn`
 - `scipy`
 
 ---
@@ -100,5 +98,5 @@ No final, os dados são salvos em um novo arquivo `.csv` com os outliers removid
 ## 👨‍💻 Autor
 
 **Iury Nolasco**  
-Estudante de Ciência de Dados | Apaixonado por Python & análise exploratória  
+Estudante de Ciência de Dados
 Abril/2025
