@@ -1,0 +1,956 @@
+nome,cpf,idade,data,endereco,bairro,estado
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AP
+Calebe Santos,CPF inválido,,,endereco inválido,Desconhecido,PB
+Maria Julia Castro,CPF inválido,,,endereco inválido,Desconhecido,AL
+Arthur Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,SE
+Juan Pereira,CPF inválido,,,endereco inválido,Desconhecido,BA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SP
+Maria Clara Araújo,CPF inválido,,,endereco inválido,Desconhecido,RO
+Vitória Oliveira,CPF inválido,,,endereco inválido,Desconhecido,GO
+Benjamin Oliveira,CPF inválido,,,endereco inválido,Desconhecido,CE
+Pietro Barros,CPF inválido,,,endereco inválido,Desconhecido,PB
+Samuel Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,TO
+Ian Da Costa,CPF inválido,,,endereco inválido,Desconhecido,PB
+Dr. Emanuel Costa,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Larissa Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,RR
+Diogo Carvalho,CPF inválido,,,endereco inválido,Desconhecido,RS
+Sr. Anthony Almeida,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Clara Martins,CPF inválido,,,endereco inválido,Desconhecido,MG
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PE
+Sr. Calebe Lopes,CPF inválido,,,endereco inválido,Desconhecido,RO
+Miguel Monteiro,CPF inválido,,,endereco inválido,Desconhecido,SE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AM
+João Gabriel Araújo,CPF inválido,,,endereco inválido,Desconhecido,MT
+Sr. Nicolas Azevedo,CPF inválido,,,endereco inválido,Desconhecido,AC
+Kamilly Caldeira,CPF inválido,,,endereco inválido,Desconhecido,AP
+Renan Araújo,CPF inválido,,,endereco inválido,Desconhecido,CE
+Vicente Nascimento,CPF inválido,,,endereco inválido,Desconhecido,DF
+Isaac Rocha,CPF inválido,,,endereco inválido,Desconhecido,PE
+Julia Das Neves,CPF inválido,,,endereco inválido,Desconhecido,ES
+Breno Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,AM
+Isabel Nogueira,CPF inválido,,,endereco inválido,Desconhecido,TO
+Anthony Araújo,CPF inválido,,,endereco inválido,Desconhecido,AP
+Sra. Marina Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,RN
+Helena Cardoso,CPF inválido,,,endereco inválido,Desconhecido,RR
+Luigi Nunes,CPF inválido,,,endereco inválido,Desconhecido,RR
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PB
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PA
+Luiza Campos,CPF inválido,,,endereco inválido,Desconhecido,SC
+Lucca Da Paz,CPF inválido,,,endereco inválido,Desconhecido,RN
+Nathan Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,AM
+Lívia Silveira,CPF inválido,,,endereco inválido,Desconhecido,AL
+Isabel Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,PA
+Rafael Nunes,CPF inválido,,,endereco inválido,Desconhecido,GO
+Elisa Fogaça,CPF inválido,,,endereco inválido,Desconhecido,PE
+Agatha Ramos,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Kamilly Rocha,CPF inválido,,,endereco inválido,Desconhecido,DF
+Antônio Das Neves,CPF inválido,,,endereco inválido,Desconhecido,SC
+Luiz Gustavo Alves,CPF inválido,,,endereco inválido,Desconhecido,MS
+Emanuella Fernandes,CPF inválido,,,endereco inválido,Desconhecido,PR
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PE
+Yago Monteiro,CPF inválido,,,endereco inválido,Desconhecido,BA
+Yasmin Gonçalves,CPF inválido,,,endereco inválido,Desconhecido,BA
+Bruna Nascimento,CPF inválido,,,endereco inválido,Desconhecido,DF
+Davi Luiz Nogueira,CPF inválido,,,endereco inválido,Desconhecido,ES
+Ian Monteiro,CPF inválido,,,endereco inválido,Desconhecido,MS
+Srta. Helena Silva,CPF inválido,,,endereco inválido,Desconhecido,AC
+Bárbara Novaes,CPF inválido,,,endereco inválido,Desconhecido,PA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,ES
+Rafael Jesus,CPF inválido,,,endereco inválido,Desconhecido,DF
+Sra. Alícia Caldeira,CPF inválido,,,endereco inválido,Desconhecido,PA
+Sr. Gabriel Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,CE
+Augusto Teixeira,CPF inválido,,,endereco inválido,Desconhecido,RR
+Ana Julia Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,SP
+Lucca Barbosa,CPF inválido,,,endereco inválido,Desconhecido,SP
+Amanda Da Costa,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,TO
+Lorena Farias,CPF inválido,,,endereco inválido,Desconhecido,AP
+Anthony Da Costa,CPF inválido,,,endereco inválido,Desconhecido,SE
+Cauã Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,AL
+Anthony Barbosa,CPF inválido,,,endereco inválido,Desconhecido,RN
+Ana Julia Almeida,CPF inválido,,,endereco inválido,Desconhecido,MA
+Milena Barros,CPF inválido,,,endereco inválido,Desconhecido,PA
+Daniel Barbosa,CPF inválido,,,endereco inválido,Desconhecido,CE
+Dr. Samuel Cardoso,CPF inválido,,,endereco inválido,Desconhecido,BA
+Ana Laura Sales,CPF inválido,,,endereco inválido,Desconhecido,PR
+Mariana Cunha,CPF inválido,,,endereco inválido,Desconhecido,AM
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MS
+Kamilly Rocha,CPF inválido,,,endereco inválido,Desconhecido,MS
+Gabriel Nunes,CPF inválido,,,endereco inválido,Desconhecido,PA
+Rafael Correia,CPF inválido,,,endereco inválido,Desconhecido,SE
+Ana Lívia Barbosa,CPF inválido,,,endereco inválido,Desconhecido,CE
+Maitê Teixeira,CPF inválido,,,endereco inválido,Desconhecido,PE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PR
+Enzo Gabriel Araújo,CPF inválido,,,endereco inválido,Desconhecido,Desconhecido
+Breno Moreira,CPF inválido,,,endereco inválido,Desconhecido,AL
+Julia Lopes,CPF inválido,,,endereco inválido,Desconhecido,PR
+André Lima,CPF inválido,,,endereco inválido,Desconhecido,RO
+João Gabriel Barbosa,CPF inválido,,,endereco inválido,Desconhecido,DF
+,CPF inválido,,,endereco inválido,Desconhecido,GO
+João Felipe Oliveira,CPF inválido,,,endereco inválido,Desconhecido,RN
+Samuel Vieira,CPF inválido,,,endereco inválido,Desconhecido,MT
+Lucca Ferreira,CPF inválido,,,endereco inválido,Desconhecido,MG
+Samuel Castro,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AM
+Fernanda Sales,CPF inválido,,,endereco inválido,Desconhecido,PE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PB
+Maitê Ferreira,CPF inválido,,,endereco inválido,Desconhecido,PR
+Catarina Pires,CPF inválido,,,endereco inválido,Desconhecido,MT
+Manuela Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nina Moura,CPF inválido,,,endereco inválido,Desconhecido,PA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RR
+Ana Clara Cunha,CPF inválido,,,endereco inválido,Desconhecido,AC
+Pietra Santos,CPF inválido,,,endereco inválido,Desconhecido,GO
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RR
+Vinicius Da Costa,CPF inválido,,,endereco inválido,Desconhecido,PA
+Pedro Henrique Cunha,CPF inválido,,,endereco inválido,Desconhecido,ES
+Davi Nogueira,CPF inválido,,,endereco inválido,Desconhecido,CE
+Luiz Fernando Da Paz,CPF inválido,,,endereco inválido,Desconhecido,TO
+Srta. Letícia Rocha,CPF inválido,,,endereco inválido,Desconhecido,SC
+João Nogueira,CPF inválido,,,endereco inválido,Desconhecido,CE
+João Gabriel Cardoso,CPF inválido,,,endereco inválido,Desconhecido,AC
+Ryan Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,PB
+Olivia Das Neves,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SC
+Elisa Teixeira,CPF inválido,,,endereco inválido,Desconhecido,ES
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RS
+Maria Luiza Azevedo,CPF inválido,,,endereco inválido,Desconhecido,PE
+Lorenzo Silva,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Bianca Souza,CPF inválido,,,endereco inválido,Desconhecido,SC
+Vitor Azevedo,CPF inválido,,,endereco inválido,Desconhecido,AL
+Enzo Gabriel Lima,CPF inválido,,,endereco inválido,Desconhecido,SP
+Eduarda Cunha,CPF inválido,,,endereco inválido,Desconhecido,PI
+Sra. Nicole Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,RR
+Ana Clara Santos,CPF inválido,,,endereco inválido,Desconhecido,DF
+Enzo Gabriel Castro,CPF inválido,,,endereco inválido,Desconhecido,PB
+Nicole Ferreira,CPF inválido,,,endereco inválido,Desconhecido,ES
+Erick Sales,CPF inválido,,,endereco inválido,Desconhecido,PR
+Anthony Barros,CPF inválido,,,endereco inválido,Desconhecido,PA
+Renan Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,RO
+Marcela Santos,CPF inválido,,,endereco inválido,Desconhecido,RN
+Carolina Melo,CPF inválido,,,endereco inválido,Desconhecido,SC
+Lavínia Rezende,CPF inválido,,,endereco inválido,Desconhecido,CE
+Srta. Julia Porto,CPF inválido,,,endereco inválido,Desconhecido,MA
+Alana Cardoso,CPF inválido,,,endereco inválido,Desconhecido,PR
+Davi Lucas Cardoso,CPF inválido,,,endereco inválido,Desconhecido,MT
+Raul Santos,CPF inválido,,,endereco inválido,Desconhecido,SP
+Igor Melo,CPF inválido,,,endereco inválido,Desconhecido,PR
+Joaquim Da Costa,CPF inválido,,,endereco inválido,Desconhecido,SP
+João Felipe Farias,CPF inválido,,,endereco inválido,Desconhecido,PE
+Manuela Almeida,CPF inválido,,,endereco inválido,Desconhecido,PE
+Ryan Rocha,CPF inválido,,,endereco inválido,Desconhecido,PI
+Luna Da Conceição,CPF inválido,,,endereco inválido,Desconhecido,MA
+Manuela Silva,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PE
+Marcela Cunha,CPF inválido,,,endereco inválido,Desconhecido,SE
+Bryan Souza,CPF inválido,,,endereco inválido,Desconhecido,BA
+Kevin Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,PR
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MA
+Gabriela Da Mata,CPF inválido,,,endereco inválido,Desconhecido,CE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,TO
+Bárbara Silveira,CPF inválido,,,endereco inválido,Desconhecido,RN
+Vinicius Jesus,CPF inválido,,,endereco inválido,Desconhecido,RS
+Srta. Alice Pires,CPF inválido,,,endereco inválido,Desconhecido,RO
+Lara Ferreira,CPF inválido,,,endereco inválido,Desconhecido,RS
+Felipe Freitas,CPF inválido,,,endereco inválido,Desconhecido,AC
+Maysa Pires,CPF inválido,,,endereco inválido,Desconhecido,PR
+Letícia Da Mata,CPF inválido,,,endereco inválido,Desconhecido,PR
+Luigi Cunha,CPF inválido,,,endereco inválido,Desconhecido,PA
+Lucas Gabriel Gomes,CPF inválido,,,endereco inválido,Desconhecido,PI
+Emanuelly Costela,CPF inválido,,,endereco inválido,Desconhecido,PA
+Calebe Nascimento,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Juan Pires,CPF inválido,,,endereco inválido,Desconhecido,MS
+Lívia Costa,CPF inválido,,,endereco inválido,Desconhecido,AM
+Davi Lucas Nunes,CPF inválido,,,endereco inválido,Desconhecido,AM
+Dr. Lucca Oliveira,CPF inválido,,,endereco inválido,Desconhecido,PB
+Eduardo Monteiro,CPF inválido,,,endereco inválido,Desconhecido,PE
+Diogo Moraes,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Felipe Freitas,CPF inválido,,,endereco inválido,Desconhecido,RR
+Ryan Peixoto,CPF inválido,,,endereco inválido,Desconhecido,TO
+Otávio Pires,CPF inválido,,,endereco inválido,Desconhecido,MS
+Thiago Moreira,CPF inválido,,,endereco inválido,Desconhecido,SC
+Pietro Lopes,CPF inválido,,,endereco inválido,Desconhecido,SP
+Gabriela Gomes,CPF inválido,,,endereco inválido,Desconhecido,RO
+João Miguel Viana,CPF inválido,,,endereco inválido,Desconhecido,DF
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,TO
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AP
+Sr. Marcelo Aragão,CPF inválido,,,endereco inválido,Desconhecido,TO
+Enzo Gabriel Da Mota,CPF inválido,,,endereco inválido,Desconhecido,SE
+Ana Rezende,CPF inválido,,,endereco inválido,Desconhecido,PE
+Dr. Thomas Dias,CPF inválido,,,endereco inválido,Desconhecido,AP
+Breno Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,MG
+Lucas Gabriel Novaes,CPF inválido,,,endereco inválido,Desconhecido,SC
+Vicente Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,RN
+João Lucas Vieira,CPF inválido,,,endereco inválido,Desconhecido,RN
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SC
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PR
+Benjamin Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,MT
+Murilo Mendes,CPF inválido,,,endereco inválido,Desconhecido,SE
+Dr. Renan Rezende,CPF inválido,,,endereco inválido,Desconhecido,PR
+Maysa Porto,CPF inválido,,,endereco inválido,Desconhecido,RO
+Pedro Lucas Pereira,CPF inválido,,,endereco inválido,Desconhecido,CE
+Isadora Nogueira,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Gabriel Ramos,CPF inválido,,,endereco inválido,Desconhecido,TO
+Yago Ferreira,CPF inválido,,,endereco inválido,Desconhecido,RS
+Samuel Da Mata,CPF inválido,,,endereco inválido,Desconhecido,MG
+Dr. Rafael Souza,CPF inválido,,,endereco inválido,Desconhecido,AM
+Vitor Hugo Lima,CPF inválido,,,endereco inválido,Desconhecido,PR
+Dr. Bernardo Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,AM
+Caio Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,RO
+Stephany Duarte,CPF inválido,,,endereco inválido,Desconhecido,SE
+Kevin Da Conceição,CPF inválido,,,endereco inválido,Desconhecido,PE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AL
+Pedro Henrique Pinto,CPF inválido,,,endereco inválido,Desconhecido,CE
+Joaquim Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,AM
+Leandro Souza,CPF inválido,,,endereco inválido,Desconhecido,PI
+Beatriz Aragão,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,ES
+Joana Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,MG
+Lucas Gabriel Da Luz,CPF inválido,,,endereco inválido,Desconhecido,DF
+Davi Lucas Da Costa,CPF inválido,,,endereco inválido,Desconhecido,AL
+Henrique Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,AM
+Lorena Fernandes,CPF inválido,,,endereco inválido,Desconhecido,PR
+Nathan Nogueira,CPF inválido,,,endereco inválido,Desconhecido,DF
+Srta. Maysa Rezende,CPF inválido,,,endereco inválido,Desconhecido,PI
+Erick Santos,CPF inválido,,,endereco inválido,Desconhecido,TO
+Agatha Sales,CPF inválido,,,endereco inválido,Desconhecido,SP
+Ana Beatriz Moreira,CPF inválido,,,endereco inválido,Desconhecido,AM
+Antônio Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,AM
+Dra. Vitória Viana,CPF inválido,,,endereco inválido,Desconhecido,RO
+Enzo Monteiro,CPF inválido,,,endereco inválido,Desconhecido,PR
+Bernardo Santos,CPF inválido,,,endereco inválido,Desconhecido,PR
+Guilherme Cunha,CPF inválido,,,endereco inválido,Desconhecido,PI
+Raul Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,SC
+Pietra Lima,CPF inválido,,,endereco inválido,Desconhecido,MT
+Camila Barbosa,CPF inválido,,,endereco inválido,Desconhecido,PA
+Kaique Almeida,CPF inválido,,,endereco inválido,Desconhecido,MS
+Antônio Porto,CPF inválido,,,endereco inválido,Desconhecido,RR
+Alana Rezende,CPF inválido,,,endereco inválido,Desconhecido,ES
+Vitor Almeida,CPF inválido,,,endereco inválido,Desconhecido,RR
+Isabelly Da Mota,CPF inválido,,,endereco inválido,Desconhecido,PA
+Isis Oliveira,CPF inválido,,,endereco inválido,Desconhecido,AL
+Carolina Gomes,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MS
+Fernando Ramos,CPF inválido,,,endereco inválido,Desconhecido,PR
+Gabriela Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,CE
+Noah Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,MT
+Clara Moreira,CPF inválido,,,endereco inválido,Desconhecido,PB
+Laura Araújo,CPF inválido,,,endereco inválido,Desconhecido,PI
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MT
+Emilly Da Mata,CPF inválido,,,endereco inválido,Desconhecido,ES
+Kevin Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,PE
+Davi Pereira,CPF inválido,,,endereco inválido,Desconhecido,MG
+Thomas Silva,CPF inválido,,,endereco inválido,Desconhecido,RN
+Ana Lívia Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Sr. Vicente Silveira,CPF inválido,,,endereco inválido,Desconhecido,PA
+Sophie Caldeira,CPF inválido,,,endereco inválido,Desconhecido,PA
+Gabriel Costa,CPF inválido,,,endereco inválido,Desconhecido,PI
+Ana Carolina Costa,CPF inválido,,,endereco inválido,Desconhecido,RO
+Maitê Fogaça,CPF inválido,,,endereco inválido,Desconhecido,RN
+Bruna Caldeira,CPF inválido,,,endereco inválido,Desconhecido,AC
+Caroline Moura,CPF inválido,,,endereco inválido,Desconhecido,SP
+Sra. Ana Júlia Pires,CPF inválido,,,endereco inválido,Desconhecido,TO
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,GO
+Rodrigo Da Luz,CPF inválido,,,endereco inválido,Desconhecido,PB
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,GO
+Ana Laura Silva,CPF inválido,,,endereco inválido,Desconhecido,PI
+Maitê Nogueira,CPF inválido,,,endereco inválido,Desconhecido,SP
+Ana Laura Da Luz,CPF inválido,,,endereco inválido,Desconhecido,TO
+Sra. Brenda Viana,CPF inválido,,,endereco inválido,Desconhecido,ES
+Augusto Teixeira,CPF inválido,,,endereco inválido,Desconhecido,AM
+Dr. Francisco Lima,CPF inválido,,,endereco inválido,Desconhecido,AP
+Isaac Da Luz,CPF inválido,,,endereco inválido,Desconhecido,RO
+Calebe Jesus,CPF inválido,,,endereco inválido,Desconhecido,SC
+Kevin Melo,CPF inválido,,,endereco inválido,Desconhecido,BA
+Pedro Miguel Peixoto,CPF inválido,,,endereco inválido,Desconhecido,DF
+Gabrielly Almeida,CPF inválido,,,endereco inválido,Desconhecido,PB
+Murilo Correia,CPF inválido,,,endereco inválido,Desconhecido,SP
+Matheus Dias,CPF inválido,,,endereco inválido,Desconhecido,Desconhecido
+Stella Cardoso,CPF inválido,,,endereco inválido,Desconhecido,GO
+Marcela Barbosa,CPF inválido,,,endereco inválido,Desconhecido,MS
+Ana Carolina Pires,CPF inválido,,,endereco inválido,Desconhecido,RS
+Helena Aragão,CPF inválido,,,endereco inválido,Desconhecido,AP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MA
+Maria Cecília Vieira,CPF inválido,,,endereco inválido,Desconhecido,TO
+Lorena Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,PE
+Nicolas Cunha,CPF inválido,,,endereco inválido,Desconhecido,GO
+Vitor Hugo Ramos,CPF inválido,,,endereco inválido,Desconhecido,ES
+Luigi Aragão,CPF inválido,,,endereco inválido,Desconhecido,DF
+Maria Julia Barros,CPF inválido,,,endereco inválido,Desconhecido,PE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PR
+Ana Júlia Fernandes,CPF inválido,,,endereco inválido,Desconhecido,SE
+Luiz Miguel Novaes,CPF inválido,,,endereco inválido,Desconhecido,MG
+Gabriel Santos,CPF inválido,,,endereco inválido,Desconhecido,PE
+Srta. Sophie Vieira,CPF inválido,,,endereco inválido,Desconhecido,PI
+Júlia Cardoso,CPF inválido,,,endereco inválido,Desconhecido,RS
+Dra. Gabriela Jesus,CPF inválido,,,endereco inválido,Desconhecido,ES
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,TO
+Luiz Gustavo Jesus,CPF inválido,,,endereco inválido,Desconhecido,PI
+Rodrigo Ferreira,CPF inválido,,,endereco inválido,Desconhecido,MG
+Alícia Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,MG
+Sr. André Da Mata,CPF inválido,,,endereco inválido,Desconhecido,SE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AP
+Thomas Moraes,CPF inválido,,,endereco inválido,Desconhecido,GO
+Clara Melo,CPF inválido,,,endereco inválido,Desconhecido,MS
+Luigi Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,RN
+Dra. Stella Da Costa,CPF inválido,,,endereco inválido,Desconhecido,RO
+Isabella Da Paz,CPF inválido,,,endereco inválido,Desconhecido,AL
+Enzo Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,GO
+Olivia Fernandes,CPF inválido,,,endereco inválido,Desconhecido,AP
+André Da Mata,CPF inválido,,,endereco inválido,Desconhecido,MA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SP
+Joaquim Silveira,CPF inválido,,,endereco inválido,Desconhecido,AC
+Mirella Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AC
+Dr. Samuel Ferreira,CPF inválido,,,endereco inválido,Desconhecido,ES
+Otávio Carvalho,CPF inválido,,,endereco inválido,Desconhecido,SE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MT
+Cauê Mendes,CPF inválido,,,endereco inválido,Desconhecido,BA
+Alexandre Nunes,CPF inválido,,,endereco inválido,Desconhecido,MG
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RS
+João Guilherme Silva,CPF inválido,,,endereco inválido,Desconhecido,DF
+Lorena Rezende,CPF inválido,,,endereco inválido,Desconhecido,MG
+Maria Sophia Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,MG
+Milena Das Neves,CPF inválido,,,endereco inválido,Desconhecido,PB
+Kamilly Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,RO
+Luiz Miguel Aragão,CPF inválido,,,endereco inválido,Desconhecido,AM
+Ana Laura Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Lorena Da Mota,CPF inválido,,,endereco inválido,Desconhecido,MA
+Emanuella Souza,CPF inválido,,,endereco inválido,Desconhecido,PI
+Cecília Pinto,CPF inválido,,,endereco inválido,Desconhecido,MG
+Pedro Henrique Cunha,CPF inválido,,,endereco inválido,Desconhecido,CE
+Sra. Eloah Da Mota,CPF inválido,,,endereco inválido,Desconhecido,SP
+Samuel Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,TO
+Melissa Almeida,CPF inválido,,,endereco inválido,Desconhecido,PE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RN
+Dr. Vitor Da Mota,CPF inválido,,,endereco inválido,Desconhecido,PE
+Dr. Diogo Costela,CPF inválido,,,endereco inválido,Desconhecido,PE
+Rafaela Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,AC
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RR
+Ana Laura Caldeira,CPF inválido,,,endereco inválido,Desconhecido,PE
+Dra. Laura Silveira,CPF inválido,,,endereco inválido,Desconhecido,AM
+Sr. Rafael Pereira,CPF inválido,,,endereco inválido,Desconhecido,PE
+Manuela Mendes,CPF inválido,,,endereco inválido,Desconhecido,MG
+Igor Lopes,CPF inválido,,,endereco inválido,Desconhecido,CE
+Marcelo Moreira,CPF inválido,,,endereco inválido,Desconhecido,ES
+Thomas Costela,CPF inválido,,,endereco inválido,Desconhecido,RS
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MG
+Stella Da Costa,CPF inválido,,,endereco inválido,Desconhecido,RR
+Luana Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,CE
+Maria Cecília Lima,CPF inválido,,,endereco inválido,Desconhecido,ES
+Melissa Teixeira,CPF inválido,,,endereco inválido,Desconhecido,RS
+Dr. Vinicius Pires,CPF inválido,,,endereco inválido,Desconhecido,MS
+Luiz Miguel Farias,CPF inválido,,,endereco inválido,Desconhecido,RN
+Breno Correia,CPF inválido,,,endereco inválido,Desconhecido,GO
+Laís Costela,CPF inválido,,,endereco inválido,Desconhecido,RS
+Dr. Diego Da Mata,CPF inválido,,,endereco inválido,Desconhecido,MG
+Letícia Da Mota,CPF inválido,,,endereco inválido,Desconhecido,DF
+Luna Ferreira,CPF inválido,,,endereco inválido,Desconhecido,RS
+Dr. Emanuel Silveira,CPF inválido,,,endereco inválido,Desconhecido,PI
+Lorena Sales,CPF inválido,,,endereco inválido,Desconhecido,AM
+Davi Da Mata,CPF inválido,,,endereco inválido,Desconhecido,DF
+Isabel Melo,CPF inválido,,,endereco inválido,Desconhecido,PB
+Raul Oliveira,CPF inválido,,,endereco inválido,Desconhecido,PA
+Levi Da Mata,CPF inválido,,,endereco inválido,Desconhecido,CE
+Heloísa Castro,CPF inválido,,,endereco inválido,Desconhecido,RS
+Sra. Júlia Da Paz,CPF inválido,,,endereco inválido,Desconhecido,CE
+Luana Viana,CPF inválido,,,endereco inválido,Desconhecido,SE
+Sr. Renan Sales,CPF inválido,,,endereco inválido,Desconhecido,AC
+Caio Aragão,CPF inválido,,,endereco inválido,Desconhecido,RN
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Sofia Da Mata,CPF inválido,,,endereco inválido,Desconhecido,AM
+André Araújo,CPF inválido,,,endereco inválido,Desconhecido,CE
+Nathan Azevedo,CPF inválido,,,endereco inválido,Desconhecido,AM
+Camila Teixeira,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Srta. Clara Souza,CPF inválido,,,endereco inválido,Desconhecido,SE
+Yuri Nascimento,CPF inválido,,,endereco inválido,Desconhecido,AC
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,CE
+João Ramos,CPF inválido,,,endereco inválido,Desconhecido,PR
+Renan Rocha,CPF inválido,,,endereco inválido,Desconhecido,RS
+Sr. Caio Souza,CPF inválido,,,endereco inválido,Desconhecido,MG
+Clarice Farias,CPF inválido,,,endereco inválido,Desconhecido,PI
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PA
+João Pedro Nunes,CPF inválido,,,endereco inválido,Desconhecido,PA
+Levi Farias,CPF inválido,,,endereco inválido,Desconhecido,GO
+Dr. Enzo Da Costa,CPF inválido,,,endereco inválido,Desconhecido,AM
+Heloísa Alves,CPF inválido,,,endereco inválido,Desconhecido,PR
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RR
+Camila Caldeira,CPF inválido,,,endereco inválido,Desconhecido,MA
+Arthur Mendes,CPF inválido,,,endereco inválido,Desconhecido,SP
+João Felipe Campos,CPF inválido,,,endereco inválido,Desconhecido,MS
+Guilherme Azevedo,CPF inválido,,,endereco inválido,Desconhecido,CE
+Dra. Laura Cunha,CPF inválido,,,endereco inválido,Desconhecido,BA
+Noah Moraes,CPF inválido,,,endereco inválido,Desconhecido,MG
+Davi Lucca Lopes,CPF inválido,,,endereco inválido,Desconhecido,AP
+Sophia Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,PR
+Igor Da Luz,CPF inválido,,,endereco inválido,Desconhecido,AC
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RO
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,DF
+Eduarda Costa,CPF inválido,,,endereco inválido,Desconhecido,RS
+Lorenzo Monteiro,CPF inválido,,,endereco inválido,Desconhecido,AP
+Caroline Cardoso,CPF inválido,,,endereco inválido,Desconhecido,DF
+Henrique Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,SE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SE
+Sr. Arthur Jesus,CPF inválido,,,endereco inválido,Desconhecido,MG
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PA
+Antônio Nogueira,CPF inválido,,,endereco inválido,Desconhecido,MT
+Sophia Monteiro,CPF inválido,,,endereco inválido,Desconhecido,PA
+Dr. Leandro Silva,CPF inválido,,,endereco inválido,Desconhecido,AM
+Srta. Luna Peixoto,CPF inválido,,,endereco inválido,Desconhecido,CE
+Sr. Igor Campos,CPF inválido,,,endereco inválido,Desconhecido,AP
+Bruno Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,ES
+Amanda Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,AC
+Bruno Melo,CPF inválido,,,endereco inválido,Desconhecido,AC
+Dra. Elisa Nunes,CPF inválido,,,endereco inválido,Desconhecido,AP
+Calebe Ramos,CPF inválido,,,endereco inválido,Desconhecido,TO
+Sr. Arthur Moraes,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Júlia Silveira,CPF inválido,,,endereco inválido,Desconhecido,SC
+Sra. Isabelly Silva,CPF inválido,,,endereco inválido,Desconhecido,DF
+Dr. Otávio Azevedo,CPF inválido,,,endereco inválido,Desconhecido,CE
+Noah Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,DF
+Sra. Laura Azevedo,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,CE
+Mariane Das Neves,CPF inválido,,,endereco inválido,Desconhecido,SC
+Enzo Monteiro,CPF inválido,,,endereco inválido,Desconhecido,MG
+Diego Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,MS
+Ana Laura Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,RO
+Ana Sophia Gomes,CPF inválido,,,endereco inválido,Desconhecido,GO
+Ana Laura Costa,CPF inválido,,,endereco inválido,Desconhecido,SP
+Felipe Souza,CPF inválido,,,endereco inválido,Desconhecido,SE
+Luana Novaes,CPF inválido,,,endereco inválido,Desconhecido,RS
+Sra. Yasmin Nogueira,CPF inválido,,,endereco inválido,Desconhecido,PE
+Benício Melo,CPF inválido,,,endereco inválido,Desconhecido,DF
+Daniela Aragão,CPF inválido,,,endereco inválido,Desconhecido,RR
+Davi Luiz Sales,CPF inválido,,,endereco inválido,Desconhecido,RS
+Milena Souza,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AP
+Sr. Diogo Lima,CPF inválido,,,endereco inválido,Desconhecido,BA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RR
+Marina Gomes,CPF inválido,,,endereco inválido,Desconhecido,ES
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,TO
+Caio Ramos,CPF inválido,,,endereco inválido,Desconhecido,AL
+Rafael Nunes,CPF inválido,,,endereco inválido,Desconhecido,TO
+Enzo Gabriel Cardoso,CPF inválido,,,endereco inválido,Desconhecido,PE
+Davi Cardoso,CPF inválido,,,endereco inválido,Desconhecido,PA
+Daniel Pires,CPF inválido,,,endereco inválido,Desconhecido,ES
+Brenda Da Mata,CPF inválido,,,endereco inválido,Desconhecido,AC
+Samuel Dias,CPF inválido,,,endereco inválido,Desconhecido,CE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RO
+Theo Fogaça,CPF inválido,,,endereco inválido,Desconhecido,MT
+Sra. Alexia Carvalho,CPF inválido,,,endereco inválido,Desconhecido,AC
+Juliana Martins,CPF inválido,,,endereco inválido,Desconhecido,RR
+Luiz Gustavo Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,AL
+Gabriela Freitas,CPF inválido,,,endereco inválido,Desconhecido,BA
+Enzo Gabriel Vieira,CPF inválido,,,endereco inválido,Desconhecido,TO
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AL
+Sophie Da Mata,CPF inválido,,,endereco inválido,Desconhecido,AL
+Clarice Alves,CPF inválido,,,endereco inválido,Desconhecido,AC
+Catarina Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,RR
+Antônio Vieira,CPF inválido,,,endereco inválido,Desconhecido,PR
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,BA
+Maria Alice Da Costa,CPF inválido,,,endereco inválido,Desconhecido,MA
+Sr. Lucca Martins,CPF inválido,,,endereco inválido,Desconhecido,TO
+Maitê Gonçalves,CPF inválido,,,endereco inválido,Desconhecido,PR
+Ana Laura Ferreira,CPF inválido,,,endereco inválido,Desconhecido,RO
+Sabrina Da Mata,CPF inválido,,,endereco inválido,Desconhecido,MS
+Alexandre Das Neves,CPF inválido,,,endereco inválido,Desconhecido,ES
+Isadora Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,PE
+Dr. Luigi Fernandes,CPF inválido,,,endereco inválido,Desconhecido,MT
+Sr. Yago Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,AM
+Carolina Peixoto,CPF inválido,,,endereco inválido,Desconhecido,RN
+Ana Lívia Porto,CPF inválido,,,endereco inválido,Desconhecido,SE
+Henrique Da Mata,CPF inválido,,,endereco inválido,Desconhecido,PR
+Enrico Aragão,CPF inválido,,,endereco inválido,Desconhecido,AP
+Milena Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,PR
+Davi Lucca Melo,CPF inválido,,,endereco inválido,Desconhecido,SP
+Clarice Fernandes,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RO
+Caio Azevedo,CPF inválido,,,endereco inválido,Desconhecido,AL
+Enrico Novaes,CPF inválido,,,endereco inválido,Desconhecido,RN
+Ana Clara Moreira,CPF inválido,,,endereco inválido,Desconhecido,SC
+Enrico Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,CE
+Evelyn Aragão,CPF inválido,,,endereco inválido,Desconhecido,GO
+Thales Moreira,CPF inválido,,,endereco inválido,Desconhecido,RO
+Heitor Mendes,CPF inválido,,,endereco inválido,Desconhecido,AL
+Sarah Nascimento,CPF inválido,,,endereco inválido,Desconhecido,CE
+Sra. Yasmin Melo,CPF inválido,,,endereco inválido,Desconhecido,TO
+Sr. Marcelo Costela,CPF inválido,,,endereco inválido,Desconhecido,BA
+Maria Cecília Araújo,CPF inválido,,,endereco inválido,Desconhecido,PA
+Enzo Gabriel Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,AP
+Miguel Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,CE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MT
+Bianca Pinto,CPF inválido,,,endereco inválido,Desconhecido,AL
+Igor Melo,CPF inválido,,,endereco inválido,Desconhecido,RO
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AM
+Sofia Duarte,CPF inválido,,,endereco inválido,Desconhecido,RR
+Brenda Nogueira,CPF inválido,,,endereco inválido,Desconhecido,TO
+Rafael Fogaça,CPF inválido,,,endereco inválido,Desconhecido,SP
+Ana Nascimento,CPF inválido,,,endereco inválido,Desconhecido,RN
+Dr. Juan Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,MT
+Ana Laura Rocha,CPF inválido,,,endereco inválido,Desconhecido,AL
+Maria Alice Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,AC
+Davi Lucca Pereira,CPF inválido,,,endereco inválido,Desconhecido,CE
+Marina Fogaça,CPF inválido,,,endereco inválido,Desconhecido,PE
+Bernardo Ramos,CPF inválido,,,endereco inválido,Desconhecido,SE
+Ana Lívia Lopes,CPF inválido,,,endereco inválido,Desconhecido,GO
+Miguel Silva,CPF inválido,,,endereco inválido,Desconhecido,PE
+Sr. Arthur Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,TO
+Julia Da Mota,CPF inválido,,,endereco inválido,Desconhecido,TO
+Agatha Rocha,CPF inválido,,,endereco inválido,Desconhecido,RS
+Isabel Cardoso,CPF inválido,,,endereco inválido,Desconhecido,MG
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PR
+Levi Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,SE
+Cauã Vieira,CPF inválido,,,endereco inválido,Desconhecido,RO
+Dra. Isabelly Souza,CPF inválido,,,endereco inválido,Desconhecido,RN
+Heitor Rezende,CPF inválido,,,endereco inválido,Desconhecido,RR
+Maria Vitória Jesus,CPF inválido,,,endereco inválido,Desconhecido,RS
+Emanuel Duarte,CPF inválido,,,endereco inválido,Desconhecido,AM
+Ian Lima,CPF inválido,,,endereco inválido,Desconhecido,AC
+Vitor Alves,CPF inválido,,,endereco inválido,Desconhecido,DF
+Rafael Ramos,CPF inválido,,,endereco inválido,Desconhecido,PR
+Ryan Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,GO
+Maria Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,PE
+Srta. Milena Cardoso,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Bryan Ramos,CPF inválido,,,endereco inválido,Desconhecido,GO
+Luigi Santos,CPF inválido,,,endereco inválido,Desconhecido,AP
+Isabella Duarte,CPF inválido,,,endereco inválido,Desconhecido,PI
+Sophie Azevedo,CPF inválido,,,endereco inválido,Desconhecido,RR
+Matheus Carvalho,CPF inválido,,,endereco inválido,Desconhecido,RN
+Júlia Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,PB
+Vitor Peixoto,CPF inválido,,,endereco inválido,Desconhecido,RS
+Amanda Castro,CPF inválido,,,endereco inválido,Desconhecido,AM
+Lucas Lima,CPF inválido,,,endereco inválido,Desconhecido,BA
+Raquel Ramos,CPF inválido,,,endereco inválido,Desconhecido,RN
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PB
+Theo Da Conceição,CPF inválido,,,endereco inválido,Desconhecido,SE
+Thiago Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Davi Lucas Moreira,CPF inválido,,,endereco inválido,Desconhecido,PA
+Helena Costela,CPF inválido,,,endereco inválido,Desconhecido,AC
+Beatriz Peixoto,CPF inválido,,,endereco inválido,Desconhecido,PE
+Luigi Fernandes,CPF inválido,,,endereco inválido,Desconhecido,PB
+Gabrielly Almeida,CPF inválido,,,endereco inválido,Desconhecido,MS
+Samuel Sales,CPF inválido,,,endereco inválido,Desconhecido,MG
+Dr. Otávio Costa,CPF inválido,,,endereco inválido,Desconhecido,BA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PA
+João Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,PE
+Nathan Farias,CPF inválido,,,endereco inválido,Desconhecido,AL
+Dr. Rafael Pereira,CPF inválido,,,endereco inválido,Desconhecido,AC
+Júlia Pereira,CPF inválido,,,endereco inválido,Desconhecido,MT
+Dra. Laura Barbosa,CPF inválido,,,endereco inválido,Desconhecido,RR
+Juliana Pinto,CPF inválido,,,endereco inválido,Desconhecido,PI
+Joana Monteiro,CPF inválido,,,endereco inválido,Desconhecido,TO
+Dr. Yago Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,MT
+Miguel Nogueira,CPF inválido,,,endereco inválido,Desconhecido,PI
+Isadora Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,ES
+Clara Costela,CPF inválido,,,endereco inválido,Desconhecido,DF
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PA
+Maysa Monteiro,CPF inválido,,,endereco inválido,Desconhecido,RR
+Maria Alice Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,RR
+Maysa Lopes,CPF inválido,,,endereco inválido,Desconhecido,RS
+Srta. Yasmin Jesus,CPF inválido,,,endereco inválido,Desconhecido,AM
+Mariana Costela,CPF inválido,,,endereco inválido,Desconhecido,SC
+Clara Almeida,CPF inválido,,,endereco inválido,Desconhecido,RS
+Sofia Aragão,CPF inválido,,,endereco inválido,Desconhecido,RS
+Elisa Barros,CPF inválido,,,endereco inválido,Desconhecido,RN
+Joana Silva,CPF inválido,,,endereco inválido,Desconhecido,PE
+Lorenzo Porto,CPF inválido,,,endereco inválido,Desconhecido,GO
+Vitória Barbosa,CPF inválido,,,endereco inválido,Desconhecido,ES
+Alícia Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,MG
+Lucas Monteiro,CPF inválido,,,endereco inválido,Desconhecido,AC
+Rodrigo Caldeira,CPF inválido,,,endereco inválido,Desconhecido,MT
+Luna Rezende,CPF inválido,,,endereco inválido,Desconhecido,RN
+Diogo Rezende,CPF inválido,,,endereco inválido,Desconhecido,PI
+Anthony Da Costa,CPF inválido,,,endereco inválido,Desconhecido,RO
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,BA
+João Pedro Peixoto,CPF inválido,,,endereco inválido,Desconhecido,PR
+Alana Fernandes,CPF inválido,,,endereco inválido,Desconhecido,SC
+Sra. Mirella Rezende,CPF inválido,,,endereco inválido,Desconhecido,ES
+Gabrielly Moreira,CPF inválido,,,endereco inválido,Desconhecido,AM
+Sra. Sofia Souza,CPF inválido,,,endereco inválido,Desconhecido,PB
+Mariane Melo,CPF inválido,,,endereco inválido,Desconhecido,PR
+Lorena Souza,CPF inválido,,,endereco inválido,Desconhecido,AL
+Fernando Da Mata,CPF inválido,,,endereco inválido,Desconhecido,PB
+Laura Cardoso,CPF inválido,,,endereco inválido,Desconhecido,ES
+Marina Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,PE
+Maria Rocha,CPF inválido,,,endereco inválido,Desconhecido,RS
+Dr. Davi Luiz Nunes,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,GO
+Rodrigo Azevedo,CPF inválido,,,endereco inválido,Desconhecido,ES
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PA
+Sr. João Cardoso,CPF inválido,,,endereco inválido,Desconhecido,PR
+Maria Julia Nunes,CPF inválido,,,endereco inválido,Desconhecido,RN
+Fernanda Duarte,CPF inválido,,,endereco inválido,Desconhecido,MA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AL
+Maria Alice Vieira,CPF inválido,,,endereco inválido,Desconhecido,SE
+Ana Luiza Jesus,CPF inválido,,,endereco inválido,Desconhecido,Desconhecido
+Guilherme Cardoso,CPF inválido,,,endereco inválido,Desconhecido,RS
+Luiz Felipe Azevedo,CPF inválido,,,endereco inválido,Desconhecido,AC
+Nathan Araújo,CPF inválido,,,endereco inválido,Desconhecido,AM
+Clara Ferreira,CPF inválido,,,endereco inválido,Desconhecido,MS
+Felipe Da Mata,CPF inválido,,,endereco inválido,Desconhecido,PA
+Enzo Gabriel Azevedo,CPF inválido,,,endereco inválido,Desconhecido,SC
+Maitê Barbosa,CPF inválido,,,endereco inválido,Desconhecido,MS
+Srta. Isis Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,TO
+Otávio Da Mata,CPF inválido,,,endereco inválido,Desconhecido,TO
+Sophie Castro,CPF inválido,,,endereco inválido,Desconhecido,TO
+Diogo Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Benício Fernandes,CPF inválido,,,endereco inválido,Desconhecido,ES
+João Pedro Silva,CPF inválido,,,endereco inválido,Desconhecido,MG
+Heloísa Cunha,CPF inválido,,,endereco inválido,Desconhecido,PI
+Bruno Novaes,CPF inválido,,,endereco inválido,Desconhecido,MS
+Levi Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,DF
+João Pedro Lopes,CPF inválido,,,endereco inválido,Desconhecido,PB
+Heloísa Da Luz,CPF inválido,,,endereco inválido,Desconhecido,SP
+Lorena Gomes,CPF inválido,,,endereco inválido,Desconhecido,AP
+Milena Vieira,CPF inválido,,,endereco inválido,Desconhecido,PB
+Milena Ramos,CPF inválido,,,endereco inválido,Desconhecido,PB
+Vitor Hugo Ramos,CPF inválido,,,endereco inválido,Desconhecido,MA
+Ana Julia Nascimento,CPF inválido,,,endereco inválido,Desconhecido,SE
+Dr. Enrico Carvalho,CPF inválido,,,endereco inválido,Desconhecido,MT
+Vitor Hugo Cunha,CPF inválido,,,endereco inválido,Desconhecido,PA
+Dr. Samuel Moura,CPF inválido,,,endereco inválido,Desconhecido,MT
+Luana Nascimento,CPF inválido,,,endereco inválido,Desconhecido,CE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PR
+Sr. Calebe Duarte,CPF inválido,,,endereco inválido,Desconhecido,AM
+Leonardo Costela,CPF inválido,,,endereco inválido,Desconhecido,MG
+Benício Moreira,CPF inválido,,,endereco inválido,Desconhecido,MA
+Lucca Mendes,CPF inválido,,,endereco inválido,Desconhecido,MG
+Sophie Farias,CPF inválido,,,endereco inválido,Desconhecido,AM
+Bruna Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,TO
+Heitor Nascimento,CPF inválido,,,endereco inválido,Desconhecido,MT
+Rafael Porto,CPF inválido,,,endereco inválido,Desconhecido,MG
+Luiz Miguel Da Paz,CPF inválido,,,endereco inválido,Desconhecido,MG
+Srta. Pietra Duarte,CPF inválido,,,endereco inválido,Desconhecido,PR
+Eloah Cunha,CPF inválido,,,endereco inválido,Desconhecido,PI
+Bruna Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,GO
+Felipe Monteiro,CPF inválido,,,endereco inválido,Desconhecido,CE
+Isis Campos,CPF inválido,,,endereco inválido,Desconhecido,PE
+Vitor Novaes,CPF inválido,,,endereco inválido,Desconhecido,PI
+Yago Porto,CPF inválido,,,endereco inválido,Desconhecido,CE
+Guilherme Campos,CPF inválido,,,endereco inválido,Desconhecido,BA
+Vitor Moraes,CPF inválido,,,endereco inválido,Desconhecido,TO
+João Gabriel Jesus,CPF inválido,,,endereco inválido,Desconhecido,ES
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AP
+Dr. Arthur Carvalho,CPF inválido,,,endereco inválido,Desconhecido,RR
+Ryan Mendes,CPF inválido,,,endereco inválido,Desconhecido,MG
+Ana Laura Silva,CPF inválido,,,endereco inválido,Desconhecido,AM
+Lorenzo Novaes,CPF inválido,,,endereco inválido,Desconhecido,AL
+Cauê Cardoso,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MT
+Lavínia Azevedo,CPF inválido,,,endereco inválido,Desconhecido,BA
+Bruna Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,AP
+Theo Da Mata,CPF inválido,,,endereco inválido,Desconhecido,AL
+João Gabriel Porto,CPF inválido,,,endereco inválido,Desconhecido,GO
+Maria Julia Freitas,CPF inválido,,,endereco inválido,Desconhecido,RS
+Dr. Otávio Barros,CPF inválido,,,endereco inválido,Desconhecido,RR
+Sofia Novaes,CPF inválido,,,endereco inválido,Desconhecido,MT
+Ian Da Luz,CPF inválido,,,endereco inválido,Desconhecido,PB
+Davi Luiz Souza,CPF inválido,,,endereco inválido,Desconhecido,PE
+Cecília Araújo,CPF inválido,,,endereco inválido,Desconhecido,MT
+Luiz Gustavo Duarte,CPF inválido,,,endereco inválido,Desconhecido,DF
+Ana Julia Cardoso,CPF inválido,,,endereco inválido,Desconhecido,MG
+Gabrielly Lima,CPF inválido,,,endereco inválido,Desconhecido,RN
+Heloísa Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Letícia Costa,CPF inválido,,,endereco inválido,Desconhecido,RN
+Ana Beatriz Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,GO
+Benjamin Moura,CPF inválido,,,endereco inválido,Desconhecido,AL
+Ana Julia Fogaça,CPF inválido,,,endereco inválido,Desconhecido,RR
+Clara Da Mata,CPF inválido,,,endereco inválido,Desconhecido,MT
+Fernanda Oliveira,CPF inválido,,,endereco inválido,Desconhecido,RN
+Laura Das Neves,CPF inválido,,,endereco inválido,Desconhecido,GO
+Lívia Teixeira,CPF inválido,,,endereco inválido,Desconhecido,AL
+Eloah Moreira,CPF inválido,,,endereco inválido,Desconhecido,CE
+Lívia Cardoso,CPF inválido,,,endereco inválido,Desconhecido,PE
+Augusto Freitas,CPF inválido,,,endereco inválido,Desconhecido,AL
+Raquel Fernandes,CPF inválido,,,endereco inválido,Desconhecido,AM
+Sr. Anthony Da Costa,CPF inválido,,,endereco inválido,Desconhecido,PI
+Murilo Melo,CPF inválido,,,endereco inválido,Desconhecido,MS
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SE
+Gabriela Das Neves,CPF inválido,,,endereco inválido,Desconhecido,AL
+Bruno Da Cunha,CPF inválido,,,endereco inválido,Desconhecido,MA
+Natália Rezende,CPF inválido,,,endereco inválido,Desconhecido,MG
+Emilly Caldeira,CPF inválido,,,endereco inválido,Desconhecido,MA
+Levi Azevedo,CPF inválido,,,endereco inválido,Desconhecido,PI
+Nicole Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,CE
+Joana Moreira,CPF inválido,,,endereco inválido,Desconhecido,DF
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PB
+Marcela Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,CE
+Isaac Oliveira,CPF inválido,,,endereco inválido,Desconhecido,MT
+Manuela Pinto,CPF inválido,,,endereco inválido,Desconhecido,AM
+Bryan Ramos,CPF inválido,,,endereco inválido,Desconhecido,MS
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RR
+Brenda Ramos,CPF inválido,,,endereco inválido,Desconhecido,PI
+Yuri Rezende,CPF inválido,,,endereco inválido,Desconhecido,AC
+Luiz Miguel Da Costa,CPF inválido,,,endereco inválido,Desconhecido,PR
+Enzo Nogueira,CPF inválido,,,endereco inválido,Desconhecido,PB
+Davi Lucca Azevedo,CPF inválido,,,endereco inválido,Desconhecido,PA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PE
+Thomas Correia,CPF inválido,,,endereco inválido,Desconhecido,AC
+Davi Lucca Teixeira,CPF inválido,,,endereco inválido,Desconhecido,GO
+Luiz Gustavo Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,PA
+Pietra Da Mata,CPF inválido,,,endereco inválido,Desconhecido,AP
+Joaquim Azevedo,CPF inválido,,,endereco inválido,Desconhecido,RN
+Sra. Agatha Melo,CPF inválido,,,endereco inválido,Desconhecido,RN
+Maria Julia Lopes,CPF inválido,,,endereco inválido,Desconhecido,GO
+Dr. Marcelo Cardoso,CPF inválido,,,endereco inválido,Desconhecido,RN
+Catarina Moreira,CPF inválido,,,endereco inválido,Desconhecido,RO
+Heitor Vieira,CPF inválido,,,endereco inválido,Desconhecido,MT
+Luiz Fernando Da Luz,CPF inválido,,,endereco inválido,Desconhecido,RR
+Sabrina Silva,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Catarina Carvalho,CPF inválido,,,endereco inválido,Desconhecido,AL
+Ana Vitória Azevedo,CPF inválido,,,endereco inválido,Desconhecido,AP
+Thales Campos,CPF inválido,,,endereco inválido,Desconhecido,SP
+Thales Oliveira,CPF inválido,,,endereco inválido,Desconhecido,AM
+Fernanda Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,AP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RR
+Noah Barros,CPF inválido,,,endereco inválido,Desconhecido,MS
+Dr. Felipe Novaes,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Luiz Fernando Aragão,CPF inválido,,,endereco inválido,Desconhecido,SE
+Marina Ramos,CPF inválido,,,endereco inválido,Desconhecido,MT
+Dra. Joana Lopes,CPF inválido,,,endereco inválido,Desconhecido,SP
+Isabel Duarte,CPF inválido,,,endereco inválido,Desconhecido,MT
+Paulo Jesus,CPF inválido,,,endereco inválido,Desconhecido,PR
+Laura Costa,CPF inválido,,,endereco inválido,Desconhecido,AP
+Sra. Milena Pinto,CPF inválido,,,endereco inválido,Desconhecido,RO
+Danilo Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,TO
+Lívia Nunes,CPF inválido,,,endereco inválido,Desconhecido,PI
+Alícia Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,RS
+Agatha Rezende,CPF inválido,,,endereco inválido,Desconhecido,RR
+Juliana Santos,CPF inválido,,,endereco inválido,Desconhecido,MS
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Daniela Barbosa,CPF inválido,,,endereco inválido,Desconhecido,DF
+Arthur Pinto,CPF inválido,,,endereco inválido,Desconhecido,SP
+Emanuel Aragão,CPF inválido,,,endereco inválido,Desconhecido,SC
+Dra. Alice Vieira,CPF inválido,,,endereco inválido,Desconhecido,MA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,DF
+Maria Vitória Campos,CPF inválido,,,endereco inválido,Desconhecido,MA
+Isabel Da Conceição,CPF inválido,,,endereco inválido,Desconhecido,CE
+,CPF inválido,,,endereco inválido,Desconhecido,AL
+Dr. Thomas Nunes,CPF inválido,,,endereco inválido,Desconhecido,SE
+Lucca Moura,CPF inválido,,,endereco inválido,Desconhecido,SE
+Diogo Souza,CPF inválido,,,endereco inválido,Desconhecido,AP
+Juliana Costa,CPF inválido,,,endereco inválido,Desconhecido,AL
+Eduarda Da Costa,CPF inválido,,,endereco inválido,Desconhecido,MT
+Alana Freitas,CPF inválido,,,endereco inválido,Desconhecido,BA
+Murilo Ramos,CPF inválido,,,endereco inválido,Desconhecido,DF
+Cecília Souza,CPF inválido,,,endereco inválido,Desconhecido,BA
+Raul Martins,CPF inválido,,,endereco inválido,Desconhecido,RR
+Renan Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,CE
+Sr. Diego Pires,CPF inválido,,,endereco inválido,Desconhecido,AC
+Sofia Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,CE
+Lorenzo Dias,CPF inválido,,,endereco inválido,Desconhecido,SC
+Sr. Vitor Souza,CPF inválido,,,endereco inválido,Desconhecido,MG
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,GO
+Pedro Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,PI
+Eduarda Teixeira,CPF inválido,,,endereco inválido,Desconhecido,MA
+Daniel Oliveira,CPF inválido,,,endereco inválido,Desconhecido,DF
+Isadora Nogueira,CPF inválido,,,endereco inválido,Desconhecido,PR
+Sr. Fernando Moraes,CPF inválido,,,endereco inválido,Desconhecido,PA
+Luiza Araújo,CPF inválido,,,endereco inválido,Desconhecido,CE
+Maria Luiza Pires,CPF inválido,,,endereco inválido,Desconhecido,SC
+João Lucas Das Neves,CPF inválido,,,endereco inválido,Desconhecido,SP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,PR
+Henrique Sales,CPF inválido,,,endereco inválido,Desconhecido,BA
+Henrique Ferreira,CPF inválido,,,endereco inválido,Desconhecido,GO
+Dra. Raquel Da Mota,CPF inválido,,,endereco inválido,Desconhecido,TO
+Levi Melo,CPF inválido,,,endereco inválido,Desconhecido,MS
+Ana Luiza Gomes,CPF inválido,,,endereco inválido,Desconhecido,PA
+Isaac Fernandes,CPF inválido,,,endereco inválido,Desconhecido,PI
+Leandro Fernandes,CPF inválido,,,endereco inválido,Desconhecido,BA
+Dr. Breno Sales,CPF inválido,,,endereco inválido,Desconhecido,AL
+Rafael Araújo,CPF inválido,,,endereco inválido,Desconhecido,CE
+Eduardo Da Costa,CPF inválido,,,endereco inválido,Desconhecido,PA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,ES
+Milena Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,MS
+Eduarda Aragão,CPF inválido,,,endereco inválido,Desconhecido,TO
+Sr. Ian Barbosa,CPF inválido,,,endereco inválido,Desconhecido,PB
+Ian Cardoso,CPF inválido,,,endereco inválido,Desconhecido,AP
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SE
+Rodrigo Melo,CPF inválido,,,endereco inválido,Desconhecido,AC
+Anthony Rezende,CPF inválido,,,endereco inválido,Desconhecido,SC
+Sra. Bianca Farias,CPF inválido,,,endereco inválido,Desconhecido,MG
+João Carvalho,CPF inválido,,,endereco inválido,Desconhecido,RR
+Benício Da Costa,CPF inválido,,,endereco inválido,Desconhecido,PR
+Yuri Alves,CPF inválido,,,endereco inválido,Desconhecido,SE
+Gabriela Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,AL
+Vicente Aragão,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AP
+Antônio Santos,CPF inválido,,,endereco inválido,Desconhecido,MT
+Dr. Lucca Pinto,CPF inválido,,,endereco inválido,Desconhecido,DF
+Emilly Vieira,CPF inválido,,,endereco inválido,Desconhecido,RS
+Dr. Gabriel Da Mata,CPF inválido,,,endereco inválido,Desconhecido,RS
+Emanuella Azevedo,CPF inválido,,,endereco inválido,Desconhecido,GO
+Ana Julia Rocha,CPF inválido,,,endereco inválido,Desconhecido,PI
+Milena Castro,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Lavínia Peixoto,CPF inválido,,,endereco inválido,Desconhecido,RN
+Enzo Gabriel Gomes,CPF inválido,,,endereco inválido,Desconhecido,MG
+Laura Fogaça,CPF inválido,,,endereco inválido,Desconhecido,PA
+Sr. Vitor Da Mata,CPF inválido,,,endereco inválido,Desconhecido,Desconhecido
+Sophie Pinto,CPF inválido,,,endereco inválido,Desconhecido,SC
+Sr. Kaique Peixoto,CPF inválido,,,endereco inválido,Desconhecido,ES
+Luiz Henrique Mendes,CPF inválido,,,endereco inválido,Desconhecido,RO
+Ana Beatriz Pereira,CPF inválido,,,endereco inválido,Desconhecido,MG
+Sr. Rafael Silva,CPF inválido,,,endereco inválido,Desconhecido,PE
+Dra. Olivia Mendes,CPF inválido,,,endereco inválido,Desconhecido,RR
+Eduardo Sales,CPF inválido,,,endereco inválido,Desconhecido,DF
+André Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,GO
+Sophia Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,PR
+Carolina Sales,CPF inválido,,,endereco inválido,Desconhecido,DF
+Lucas Monteiro,CPF inválido,,,endereco inválido,Desconhecido,PI
+João Felipe Dias,CPF inválido,,,endereco inválido,Desconhecido,SE
+Dr. Ian Fogaça,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Lorena Barros,CPF inválido,,,endereco inválido,Desconhecido,MG
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SE
+Natália Monteiro,CPF inválido,,,endereco inválido,Desconhecido,AM
+Eduarda Duarte,CPF inválido,,,endereco inválido,Desconhecido,CE
+Larissa Carvalho,CPF inválido,,,endereco inválido,Desconhecido,AL
+Lara Moraes,CPF inválido,,,endereco inválido,Desconhecido,PI
+Sophie Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,AM
+Olivia Martins,CPF inválido,,,endereco inválido,Desconhecido,DF
+Thomas Barros,CPF inválido,,,endereco inválido,Desconhecido,AM
+Davi Luiz Azevedo,CPF inválido,,,endereco inválido,Desconhecido,PB
+Danilo Santos,CPF inválido,,,endereco inválido,Desconhecido,AC
+Sr. Enzo Porto,CPF inválido,,,endereco inválido,Desconhecido,MA
+Bianca Alves,CPF inválido,,,endereco inválido,Desconhecido,MS
+Alexia Das Neves,CPF inválido,,,endereco inválido,Desconhecido,SE
+Esther Campos,CPF inválido,,,endereco inválido,Desconhecido,PI
+Ana Júlia Freitas,CPF inválido,,,endereco inválido,Desconhecido,AC
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RO
+Ryan Da Mata,CPF inválido,,,endereco inválido,Desconhecido,GO
+Emilly Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,PA
+Bernardo Pinto,CPF inválido,,,endereco inválido,Desconhecido,PA
+Nicole Peixoto,CPF inválido,,,endereco inválido,Desconhecido,MS
+Isaac Da Conceição,CPF inválido,,,endereco inválido,Desconhecido,AM
+Davi Lucca Santos,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Paulo Lopes,CPF inválido,,,endereco inválido,Desconhecido,MG
+Sophie Vieira,CPF inválido,,,endereco inválido,Desconhecido,MA
+Rodrigo Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,GO
+Sr. Samuel Barbosa,CPF inválido,,,endereco inválido,Desconhecido,RS
+Dr. Cauê Ramos,CPF inválido,,,endereco inválido,Desconhecido,DF
+Bruno Jesus,CPF inválido,,,endereco inválido,Desconhecido,RN
+Lívia Correia,CPF inválido,,,endereco inválido,Desconhecido,MS
+Enrico Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,PA
+Rafaela Aragão,CPF inválido,,,endereco inválido,Desconhecido,PB
+Larissa Lopes,CPF inválido,,,endereco inválido,Desconhecido,SC
+Sr. Vitor Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,TO
+Isadora Pereira,CPF inválido,,,endereco inválido,Desconhecido,BA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MT
+Gabrielly Mendes,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Sr. Bruno Da Mata,CPF inválido,,,endereco inválido,Desconhecido,TO
+Breno Rocha,CPF inválido,,,endereco inválido,Desconhecido,PA
+Luigi Ferreira,CPF inválido,,,endereco inválido,Desconhecido,AP
+Davi Lucca Da Cruz,CPF inválido,,,endereco inválido,Desconhecido,AL
+Henrique Almeida,CPF inválido,,,endereco inválido,Desconhecido,MS
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SE
+Alexia Souza,CPF inválido,,,endereco inválido,Desconhecido,MT
+Luiza Azevedo,CPF inválido,,,endereco inválido,Desconhecido,AL
+Dr. Kaique Da Mota,CPF inválido,,,endereco inválido,Desconhecido,TO
+Laura Lima,CPF inválido,,,endereco inválido,Desconhecido,SP
+Raul Rodrigues,CPF inválido,,,endereco inválido,Desconhecido,BA
+Joaquim Melo,CPF inválido,,,endereco inválido,Desconhecido,PE
+Benjamin Cardoso,CPF inválido,,,endereco inválido,Desconhecido,AL
+João Miguel Lopes,CPF inválido,,,endereco inválido,Desconhecido,ES
+Letícia Da Mota,CPF inválido,,,endereco inválido,Desconhecido,CE
+Levi Da Rocha,CPF inválido,,,endereco inválido,Desconhecido,AC
+Lorena Caldeira,CPF inválido,,,endereco inválido,Desconhecido,BA
+Cauê Nogueira,CPF inválido,,,endereco inválido,Desconhecido,ES
+Sra. Yasmin Ferreira,CPF inválido,,,endereco inválido,Desconhecido,RN
+Nicole Almeida,CPF inválido,,,endereco inválido,Desconhecido,MG
+Breno Pereira,CPF inválido,,,endereco inválido,Desconhecido,PI
+Clara Dias,CPF inválido,,,endereco inválido,Desconhecido,DF
+Dra. Milena Vieira,CPF inválido,,,endereco inválido,Desconhecido,MG
+Vitor Gabriel Porto,CPF inválido,,,endereco inválido,Desconhecido,ES
+Sr. Erick Da Rosa,CPF inválido,,,endereco inválido,Desconhecido,AL
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RN
+Sra. Nina Pires,CPF inválido,,,endereco inválido,Desconhecido,RS
+Felipe Ribeiro,CPF inválido,,,endereco inválido,Desconhecido,PE
+Maria Julia Porto,CPF inválido,,,endereco inválido,Desconhecido,GO
+Pedro Cardoso,CPF inválido,,,endereco inválido,Desconhecido,PA
+Enrico Gonçalves,CPF inválido,,,endereco inválido,Desconhecido,MG
+Murilo Campos,CPF inválido,,,endereco inválido,Desconhecido,SP
+Olivia Porto,CPF inválido,,,endereco inválido,Desconhecido,AC
+Mirella Da Conceição,CPF inválido,,,endereco inválido,Desconhecido,AM
+Stephany Cardoso,CPF inválido,,,endereco inválido,Desconhecido,RO
+Dr. Gabriel Souza,CPF inválido,,,endereco inválido,Desconhecido,CE
+Davi Jesus,CPF inválido,,,endereco inválido,Desconhecido,RO
+Guilherme Freitas,CPF inválido,,,endereco inválido,Desconhecido,SE
+Theo Costa,CPF inválido,,,endereco inválido,Desconhecido,RN
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MA
+Maria Luiza Gomes,CPF inválido,,,endereco inválido,Desconhecido,BA
+Davi Lucas Peixoto,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Bruna Almeida,CPF inválido,,,endereco inválido,Desconhecido,PR
+Juliana Ramos,CPF inválido,,,endereco inválido,Desconhecido,AM
+Sarah Nascimento,CPF inválido,,,endereco inválido,Desconhecido,MT
+Brenda Da Luz,CPF inválido,,,endereco inválido,Desconhecido,PE
+Heloísa Da Costa,CPF inválido,,,endereco inválido,Desconhecido,SE
+Emanuella Araújo,CPF inválido,,,endereco inválido,Desconhecido,AC
+Vitor Viana,CPF inválido,,,endereco inválido,Desconhecido,AC
+Yago Lopes,CPF inválido,,,endereco inválido,Desconhecido,RO
+Lívia Souza,CPF inválido,,,endereco inválido,Desconhecido,CE
+Gabriela Cavalcanti,CPF inválido,,,endereco inválido,Desconhecido,MA
+Enzo Nogueira,CPF inválido,,,endereco inválido,Desconhecido,MG
+Dr. Ian Barbosa,CPF inválido,,,endereco inválido,Desconhecido,PI
+Gabriela Rocha,CPF inválido,,,endereco inválido,Desconhecido,MA
+Maria Julia Martins,CPF inválido,,,endereco inválido,Desconhecido,PB
+Dra. Marina Santos,CPF inválido,,,endereco inválido,Desconhecido,DF
+Heloísa Teixeira,CPF inválido,,,endereco inválido,Desconhecido,PA
+Paulo Farias,CPF inválido,,,endereco inválido,Desconhecido,AP
+Gabrielly Cardoso,CPF inválido,,,endereco inválido,Desconhecido,AP
+Davi Aragão,CPF inválido,,,endereco inválido,Desconhecido,SE
+Yago Peixoto,CPF inválido,,,endereco inválido,Desconhecido,PI
+Erick Da Conceição,CPF inválido,,,endereco inválido,Desconhecido,CE
+Isis Araújo,CPF inválido,,,endereco inválido,Desconhecido,SP
+Dr. Nicolas Rezende,CPF inválido,,,endereco inválido,Desconhecido,PA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,AC
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,GO
+Luiz Felipe Farias,CPF inválido,,,endereco inválido,Desconhecido,AL
+Sr. Calebe Silva,CPF inválido,,,endereco inválido,Desconhecido,ES
+Emanuella Gonçalves,CPF inválido,,,endereco inválido,Desconhecido,Desconhecido
+Augusto Oliveira,CPF inválido,,,endereco inválido,Desconhecido,RO
+Pedro Azevedo,CPF inválido,,,endereco inválido,Desconhecido,RS
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,MT
+Eduarda Oliveira,CPF inválido,,,endereco inválido,Desconhecido,PB
+Paulo Ramos,CPF inválido,,,endereco inválido,Desconhecido,DF
+Beatriz Pires,CPF inválido,,,endereco inválido,Desconhecido,MA
+Fernando Azevedo,CPF inválido,,,endereco inválido,Desconhecido,RO
+Eloah Silva,CPF inválido,,,endereco inválido,Desconhecido,BA
+Caio Araújo,CPF inválido,,,endereco inválido,Desconhecido,GO
+Sra. Valentina Sales,CPF inválido,,,endereco inválido,Desconhecido,MG
+Melissa Cunha,CPF inválido,,,endereco inválido,Desconhecido,MT
+Laís Da Paz,CPF inválido,,,endereco inválido,Desconhecido,SP
+Heitor Silveira,CPF inválido,,,endereco inválido,Desconhecido,MA
+Fernanda Moraes,CPF inválido,,,endereco inválido,Desconhecido,PI
+Alana Souza,CPF inválido,,,endereco inválido,Desconhecido,SE
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,SP
+Stephany Vieira,CPF inválido,,,endereco inválido,Desconhecido,MS
+Enzo Barros,CPF inválido,,,endereco inválido,Desconhecido,GO
+Caroline Peixoto,CPF inválido,,,endereco inválido,Desconhecido,RR
+Maria Vitória Novaes,CPF inválido,,,endereco inválido,Desconhecido,GO
+Bruna Moura,CPF inválido,,,endereco inválido,Desconhecido,MG
+Maitê Peixoto,CPF inválido,,,endereco inválido,Desconhecido,PI
+Dr. Anthony Barbosa,CPF inválido,,,endereco inválido,Desconhecido,AP
+Alexandre Jesus,CPF inválido,,,endereco inválido,Desconhecido,BA
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Ana Lívia Da Paz,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Nome Inválido,CPF inválido,,,endereco inválido,Desconhecido,RN
+Nome Inválido,CPF inválido,,,endereco inválido,Desconhecido,PB
+Renan Da Luz,CPF inválido,,,endereco inválido,Desconhecido,PR
+Caroline Costa,CPF inválido,,,endereco inválido,Desconhecido,RS
+Giovanna Farias,CPF inválido,,,endereco inválido,Desconhecido,RJ
+Maitê Araújo,CPF inválido,,,endereco inválido,Desconhecido,RS
+Lavínia Da Mota,CPF inválido,,,endereco inválido,Desconhecido,ES
+Igor Cardoso,CPF inválido,,,endereco inválido,Desconhecido,AM
+Maria Julia Campos,CPF inválido,,,endereco inválido,Desconhecido,MG
+Nome inválido,CPF inválido,,,endereco inválido,Desconhecido,RO
+Isabel Barbosa,CPF inválido,,,endereco inválido,Desconhecido,MG
+Ryan Gomes,CPF inválido,,,endereco inválido,Desconhecido,SP
+Breno Duarte,CPF inválido,,,endereco inválido,Desconhecido,TO
+Eloah Peixoto,CPF inválido,,,endereco inválido,Desconhecido,MG
+Luiza Sales,CPF inválido,,,endereco inválido,Desconhecido,GO
+Dr. Alexandre Sales,CPF inválido,,,endereco inválido,Desconhecido,SP
+Alícia Campos,CPF inválido,,,endereco inválido,Desconhecido,GO
+Luigi Porto,CPF inválido,,,endereco inválido,Desconhecido,PI
